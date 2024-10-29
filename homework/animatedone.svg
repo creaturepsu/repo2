@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc>hard work</desc>
+    <rect width="10" height="10" fill="blue">
+        <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="-30" to="360" begin="0s" dur="2s" fill="freeze" />
+        <animateMotion path="M 0 0 L 100 100" begin="0s" dur="5s" fill="freeze" />
+<!--what do the M and L do here? (and also the 2 0's between them) I understand how the two 100's would probably be the final x and y destination but im still stumped on those-->
+    </rect>
+</svg>

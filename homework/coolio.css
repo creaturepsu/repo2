@@ -1,0 +1,75 @@
+:root {
+    --yellow: #FF0;
+    --aqua: #00CFFF;
+    --blue: #00F;
+    --pink: #ffc0cb;
+    --purple: #800080;
+    --teal: #5adbab;
+    --transparent: #5adbab00;
+}
+
+#yellowCircle {
+    --fill: var(--yellow)
+}
+
+#aquaRect {
+    --stroke: var(--aqua);
+    --fill: var(--transparent);
+}
+
+#tealRect {
+    --stroke: var(--teal);
+    --fill: var(--transparent);
+}
+
+#blueLine {
+    --fill: none;
+    --stroke: var(--blue)
+}
+
+
+#pinkCircle {
+    --stroke: var(--pink);
+    --fill: var(--transparent);
+}
+
+#purpleCircle {
+    --fill: var(--purple)
+}
+
+
+#yellowCircle,
+#aquaRect,
+#tealRect,
+#blueLine,
+#pinkCircle,
+#purpleCircle {
+    transition: all 1s ease;
+}
+
+
+svg:hover #purpleCircle {
+    transform: translate(-50%, -10%)
+}
+
+svg:hover #pinkCircle {
+    transform: translate(40%, -40%)
+}
+
+svg:hover #yellowCircle {
+    --fill: var(--teal)
+}
+svg:hover #aquaRect {
+    --stroke: var(--yellow)
+}
+svg:hover #tealRect {
+    --stroke: var(--aqua);
+    --fill: var(--purple);
+}
+
+svg:hover #pinkCircle {
+    --transform: translate(40%, -40%);
+    --transform: scale(140%);
+}
+
+/*Why is none of this working? I assumed it had to do with all the red lines around transform fill and stroke so I added the "--" behind them. I think I just ended up cancelling them out*/
