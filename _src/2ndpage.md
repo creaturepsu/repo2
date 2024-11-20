@@ -1,12 +1,9 @@
 ---
-title: secondary page
+title: Gallery
 layout: base.njk
 permalink: no2.html
 ---
 
-# Header2 (the sequel)
+# work in progress gallery
 
-hi hello this is made of
-- more hopes
-- more dreams
-- double the duct tape
+
