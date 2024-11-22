@@ -22,7 +22,7 @@ function imageToJson(imagesFolder) {
     console.log(jsonData);
 
     // To write to a file:
-    fs.writeFileSync('image_metadata.json', jsonData);
+    fs.writeFileSync('_data/image_metadata.json', jsonData);
 }
 
 imageToJson(imagesFolder);

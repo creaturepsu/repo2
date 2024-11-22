@@ -1,6 +1,6 @@
 ---
 title: Gallery
-layout: base.njk
+layout: pickspage.njk
 permalink: no2.html
 ---
 
