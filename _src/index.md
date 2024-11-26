@@ -18,7 +18,7 @@ Hi, Im charlie vazquez a first gen college student majoring in DIGIT (digital me
 - Alice underground text encoding
   - link:
 - Futurama visual data 
-  - link:
+  - <a href="https://mystkitteh.github.io/TeamFuturama/index.html">link<a>
 - Erie insurance policy dashboard prototype
   - link:
 - some other thing
