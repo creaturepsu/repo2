@@ -10,19 +10,27 @@
            minimum-scale=1.0">
      <meta http-equiv="X-UA-Compatible"
            content="ie=edge">
-     <title>{{ title }}</title>
+     <title>Resume</title>
      <link rel="stylesheet" href="css/ouch.css">
 </head>
 <body>
- {% include "layouts/top.html" %}
+ <nav>
+    <a href="index.html">Home</a> | <a href="no3.html">SSD Updates</a> | <a href="no2.html">Gallery</a> | <a href="no4.html">Resume</a>
+</nav>
 
- <h1>{{ title }}</h1>
+ <h1>Resume</h1>
 
- <h2>{{ param }}</h2>
+ <h2></h2>
 
-    {{ content | safe }}
+ <p>What's my permalink parameter? no4.html </p>
 
- {% include  "layouts/footer.html" %}
+    
+
+ <hr/>
+<div id="footer">
+    <p>testing here to see if its all it needs</p>
+    </div>
+</div>
 
 </body>
 </html>
