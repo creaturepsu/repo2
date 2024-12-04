@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: base.njk
-permalink: no1.html
 ---
 
 # Contact information
