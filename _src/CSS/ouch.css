@@ -1,19 +1,24 @@
 /* over here is the stuff for the nav bar and header at the top of every page */
 nav.top {
-    text-align:center;
-    font-family: sans-serif;
+    padding: 0vh 5vw 0vh 5vw;
+    margin: 75px auto 50px auto;
+    position: relative;
+    display:flex;
+    flex-direction: row;
+    width: fit-content;
+
+    /*position: sticky;
+    top: 0;*/
 }
 
 header {
-    background-image: url(img/bridgelol.jpg);
-    position: absolute;
-    left: 0;
-    top: 10px;
-    width: 100%;
-    height: 369px;
-    padding: 0px;
-    margin: 0px;
-    width: 100vw;
+    padding: 0vh 5vw 0vh 5vw;
+    position: static;
+    z-index: 1;
+    display:flex;
+    margin: 0 auto;
+    max-width: 1000px;
+    background-image: url("img//DSCN1903.jpg");
 }
 /* wanna figure out a way to make this crop to fit but you're still able to see the whole image if you scroll.
 not sure how else to describe it
@@ -22,7 +27,6 @@ html, body {
     overflow-x: hidden;
     background-color: #40fbd6;
 }
-
 
 /* everything below here is ripped from the futurama project for referencing
 
