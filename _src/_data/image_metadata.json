@@ -1,12 +1,70 @@
 [
   {
+    "filename": "DSCN1765.jpg",
+    "filepath": "img\\DSCN1765.jpg"
+  },
+  {
+    "filename": "DSCN1792.jpg",
+    "filepath": "img\\DSCN1792.jpg"
+  },
+  {
+    "filename": "DSCN1796.jpg",
+    "filepath": "img\\DSCN1796.jpg"
+  },
+  {
+    "filename": "DSCN1800.jpg",
+    "filepath": "img\\DSCN1800.jpg"
+  },
+  {
+    "filename": "DSCN1828.jpg",
+    "filepath": "img\\DSCN1828.jpg"
+  },
+  {
+    "filename": "DSCN1830.jpg",
+    "filepath": "img\\DSCN1830.jpg"
+  },
+  {
+    "filename": "DSCN1883.jpg",
+    "filepath": "img\\DSCN1883.jpg"
+  },
+  {
+    "filename": "DSCN1893.jpg",
+    "filepath": "img\\DSCN1893.jpg"
+  },
+  {
+    "filename": "DSCN1903.jpg",
+    "filepath": "img\\DSCN1903.jpg"
+  },
+  {
+    "filename": "encounter.png",
+    "filepath": "img\\encounter.png"
+  },
+  {
+    "filename": "expiredbeans.png",
+    "filepath": "img\\expiredbeans.png"
+  },
+  {
+    "filename": "fatality.png",
+    "filepath": "img\\fatality.png"
+  },
+  {
     "filename": "grey cat looking up.jpg",
-    "filepath": "img\\grey cat looking up.jpg",
-    "type": "test"
+    "filepath": "img\\grey cat looking up.jpg"
+  },
+  {
+    "filename": "jumpscare.png",
+    "filepath": "img\\jumpscare.png"
+  },
+  {
+    "filename": "linkedin.png",
+    "filepath": "img\\linkedin.png"
   },
   {
     "filename": "perro.jpg",
-    "filepath": "img\\perro.jpg",
-    "type": "test"
+    "filepath": "img\\perro.jpg"
+  },
+  {
+    "filename": "wakeup.png",
+    "filepath": "img\\wakeup.png"
   }
 ]

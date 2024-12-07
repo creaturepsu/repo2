@@ -1,0 +1,151 @@
+/* over here is the stuff for the nav bar and header at the top of every page */
+nav.top {
+    text-align:center;
+    font-family: sans-serif;
+}
+
+header {
+    background-image: url(img/bridgelol.jpg);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 369px;
+    padding: 0px;
+    margin: 0px;
+    width: 100vw;
+}
+/* wanna figure out a way to make this crop to fit but you're still able to see the whole image if you scroll.
+not sure how else to describe it
+ */
+html, body {
+    overflow-x: hidden;
+    background-color: #12b669;
+}
+
+
+/* everything below here is ripped from the futurama project for referencing
+
+header {
+    background-image: url(images/header-thin.png);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 369px;
+    padding: 0px;
+    margin: 0px;
+    width: 100vw;
+}
+img.future {
+    height: 260px;
+    text-align: center;
+    margin: auto;
+    padding-top: 55px;
+    display: block;
+}
+
+html, body {
+    overflow-x: hidden;
+    background-color: #FBFAE5;
+}
+
+/*  dr. b simplifying the css with a nice flex container
+
+div.image {
+    display:flex;
+}
+/* dr. b added a class attribute to the div inside to make it easier to point to here.
+ * Also wrapped a <figure> element around the image to make it easier to control the size.
+
+div.lol {
+    flex: 2;
+    font-size: 20pt;
+    color: black;
+    text-align: justify;
+    transform: translateX(1em);
+}
+figure.hypnotoad {
+    flex: 1
+}
+
+figure.hypnotoad img {
+    width:90%;
+    max-width:1000px;
+    border: solid black 5px;
+    margin-left:2vw;
+}
+
+div.bone{
+    padding-left: 20pt;
+    font-size: 20pt;
+    max-width: 80vw;
+}
+
+div.image div > h3{
+    font-size: 1.5em;
+}
+
+div.cover{
+    background-color: #FBFAE5;
+    font-family: Helvetica;
+    margin-left:auto; margin-right:auto; margin-top: 368px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+nav{
+    text-align: center;
+}
+nav a {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    color: black;
+    padding-top: 10px;
+}
+
+hr{
+    border: 4pt solid black;
+}
+
+h1.header{
+    font-size: 90pt;
+    text-align:center;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #bc4128;
+    text-shadow: -3pt 3pt 0 black;
+    transform: skew(-10deg, 0);
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+}
+
+h2.title{
+    text-align: center;
+    max-width: 80vw;
+    font-size: 100pt;
+    margin-top:0.1em;
+    margin-bottom: 0.1em;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+body {
+    width: 70%;
+    padding: 30px 15%;
+    font-family: sans-serif;
+}
+
+a {
+    color:black;
+}
+
+a:hover {
+    color: gray;
+}
+.frylink {
+    height: 50vw;
+    width: 55vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+*/
