@@ -3,9 +3,6 @@ title: Home
 layout: base.njk
 ---
 
-## About
-Hi, I'm charlie vazquez a first gen college student majoring in DIGIT (digital media art and technology). I'm a digital artist and writer who attends penn state behrend, I have been involved in the alice underground encoding project and futurama visual data project.
-
 ## Projects worked on
 - Futurama visual data 
   - <a href="https://mystkitteh.github.io/TeamFuturama/index.html">link</a>
