@@ -3,12 +3,6 @@ title: Home
 layout: base.njk
 ---
 
-## Contact information
-
-Email:charlie.vazquez0408@gmail.com
-
-Phone:484-201-6627
-
 ## About
 Hi, I'm charlie vazquez a first gen college student majoring in DIGIT (digital media art and technology). I'm a digital artist and writer who attends penn state behrend, I have been involved in the alice underground encoding project and futurama visual data project.
 
