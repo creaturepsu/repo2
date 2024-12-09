@@ -1,19 +1,18 @@
 /*over here is the stuff for the nav bar and header at the top of every page*/
-nav.top {
+nav{
     padding: 0vh 5vw 0vh 5vw;
     margin: 75px auto 50px auto;
-    position: relative;
+    position: bottom;
     display:flex;
     flex-direction: row;
     width: fit-content;
-
-    !*position: sticky;
-    top: 0;*!
+    position: sticky;
+    top: 0;*
 }
 
 header {
     padding: 0vh 5vw 0vh 5vw;
-    position: static;
+    position: top;
     z-index: 1;
     display:flex;
     margin: 0 auto;
@@ -26,7 +25,7 @@ not sure how else to describe it*/
 :root{
     --headFont: "DM Sans", sans-serif;
     --everythingFont: 'Open Sans', sans-serif;
-    --goldColor: #FFCD00;
+    --Color: #8afbe5;
 }
 
 
@@ -55,23 +54,6 @@ body{
 
 }
 
-
-#body:not(.footer) {
-    margin:auto;
-}
-#body:not(.dropdown) {
-    margin:auto;
-}
-
-#Erieimg, #YellowTrap {
-    z-index: -100;
-    position: absolute;
-    right: 0px;
-    top: 0px;
-    background-repeat: no-repeat;
-    background-position-x: right;
-    height: 52em;
-}
 /*
 
 everything below here is ripped from the keystone project for referencing how to style in 11ty
