@@ -1,4 +1,6 @@
 /*over here is the stuff for the nav bar and header at the top of every page*/
+
+/*im so close to giving up I swear I can feel myself getting angrier with each character I type*/
 nav{
     padding: 0vh 5vw 0vh 5vw;
     margin: 75px auto 50px auto;
@@ -6,7 +8,6 @@ nav{
     display:flex;
     flex-direction: row;
     width: fit-content;
-    position: sticky;
     top: 0;*
 }
 
