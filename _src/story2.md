@@ -3,7 +3,7 @@ title: Dead!
 layout: base.njk
 permalink: story2.html
 ---
-I died around a 3 days ago and it's become a humungous pain in the ass to deal with ever since. My body still aches everywhere but at least I don't have to worry about the extra pain from lying down in that hospital bed anymore. As I pace around in the waiting room, not knowing if I’d be able to pass away normally, I looked for a wall to punch or a table to bang my head against guess I don’t even have that luxury anymore. As I face the psychics and co. sign I begin to think about all the work I'd have to do to pay for all these fees. Why am I still here exactly? Is it my missing rent or-
+I died around 3 days ago and it's become a humungous pain in the ass to deal with ever since. My body still aches everywhere but at least I don't have to worry about the extra pain from lying down in that hospital bed anymore. As I pace around in the waiting room, not knowing if I’d be able to pass away normally, I looked for a wall to punch or a table to bang my head against guess I don’t even have that luxury anymore. As I face the psychics and co. sign I begin to think about all the work I'd have to do to pay for all these fees. Why am I still here exactly? Is it my missing rent or-
 
 “WHAT? Oh ok, I see. Thank you, sweetie I’ll let him know right away,” she sighed as her smile dissolved and she tidied up her stack of paper. “Welp, congratulations boy, they found your left arm and finished grafting your bones together” she said, rather casually “you’re a very lucky one, the body ended up flying to the side of the train on impact and landed in a tree. Minimal damage to the face, so your dating life shouldn't suffer much at all!”
 

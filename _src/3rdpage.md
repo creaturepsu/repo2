@@ -1,6 +1,6 @@
 ---
 title: SSD updates
-layout: base.njk
+layout: pickspage.njk
 permalink: no3.html
 ---
 

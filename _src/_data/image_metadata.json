@@ -1,5 +1,13 @@
 [
   {
+    "filename": "akwardconvo.png",
+    "filepath": "img\\akwardconvo.png"
+  },
+  {
+    "filename": "Bros.png",
+    "filepath": "img\\Bros.png"
+  },
+  {
     "filename": "DSCN1765.jpg",
     "filepath": "img\\DSCN1765.jpg"
   },
@@ -46,6 +54,10 @@
   {
     "filename": "fatality.png",
     "filepath": "img\\fatality.png"
+  },
+  {
+    "filename": "Fishing.png",
+    "filepath": "img\\Fishing.png"
   },
   {
     "filename": "grey cat looking up.jpg",
