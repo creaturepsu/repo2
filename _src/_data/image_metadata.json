@@ -1,17 +1,15 @@
 [
   {
     "filename": "akwardconvo.png",
-    "filepath": "img\\akwardconvo.png",
-    "type": "ssd"
+    "filepath": "img\\akwardconvo.png"
   },
   {
     "filename": "Bros.png",
-    "filepath": "img\\Bros.png",
-    "type": "ssd"
+    "filepath": "img\\Bros.png"
   },
   {
     "filename": "DSCN1765.jpg",
-    "filepath": "img\\DSCN1765.jpg",
+    "filepath": "img\\DSCN1765.jpg"
   },
   {
     "filename": "DSCN1792.jpg",
@@ -47,37 +45,50 @@
   },
   {
     "filename": "encounter.png",
-    "filepath": "img\\encounter.png",
-    "type": "ssd"
+    "filepath": "img\\encounter.png"
   },
   {
     "filename": "expiredbeans.png",
-    "filepath": "img\\expiredbeans.png",
-    "type": "ssd"
+    "filepath": "img\\expiredbeans.png"
   },
   {
     "filename": "fatality.png",
-    "filepath": "img\\fatality.png",
-    "type": "ssd"
+    "filepath": "img\\fatality.png"
   },
   {
     "filename": "Fishing.png",
-    "filepath": "img\\Fishing.png",
-    "type": "ssd"
+    "filepath": "img\\Fishing.png"
+  },
+  {
+    "filename": "gitlogo.png",
+    "filepath": "img\\gitlogo.png"
   },
   {
     "filename": "jumpscare.png",
-    "filepath": "img\\jumpscare.png",
-    "type": "ssd"
+    "filepath": "img\\jumpscare.png"
   },
   {
     "filename": "linkedin.png",
-    "filepath": "img\\linkedin.png",
-    "type": "logo"
+    "filepath": "img\\linkedin.png"
+  },
+  {
+    "filename": "listerineincident.png",
+    "filepath": "img\\listerineincident.png"
+  },
+  {
+    "filename": "pfp_3.0.png",
+    "filepath": "img\\pfp_3.0.png"
+  },
+  {
+    "filename": "Skylite_OSVectored.png",
+    "filepath": "img\\Skylite_OSVectored.png"
+  },
+  {
+    "filename": "vector2.png",
+    "filepath": "img\\vector2.png"
   },
   {
     "filename": "wakeup.png",
-    "filepath": "img\\wakeup.png",
-    "type": "ssd"
+    "filepath": "img\\wakeup.png"
   }
 ]
