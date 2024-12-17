@@ -1,15 +1,17 @@
 [
   {
     "filename": "akwardconvo.png",
-    "filepath": "img\\akwardconvo.png"
+    "filepath": "img\\akwardconvo.png",
+    "type": "ssd"
   },
   {
     "filename": "Bros.png",
-    "filepath": "img\\Bros.png"
+    "filepath": "img\\Bros.png",
+    "type": "ssd"
   },
   {
     "filename": "DSCN1765.jpg",
-    "filepath": "img\\DSCN1765.jpg"
+    "filepath": "img\\DSCN1765.jpg",
   },
   {
     "filename": "DSCN1792.jpg",
@@ -45,38 +47,37 @@
   },
   {
     "filename": "encounter.png",
-    "filepath": "img\\encounter.png"
+    "filepath": "img\\encounter.png",
+    "type": "ssd"
   },
   {
     "filename": "expiredbeans.png",
-    "filepath": "img\\expiredbeans.png"
+    "filepath": "img\\expiredbeans.png",
+    "type": "ssd"
   },
   {
     "filename": "fatality.png",
-    "filepath": "img\\fatality.png"
+    "filepath": "img\\fatality.png",
+    "type": "ssd"
   },
   {
     "filename": "Fishing.png",
-    "filepath": "img\\Fishing.png"
-  },
-  {
-    "filename": "grey cat looking up.jpg",
-    "filepath": "img\\grey cat looking up.jpg"
+    "filepath": "img\\Fishing.png",
+    "type": "ssd"
   },
   {
     "filename": "jumpscare.png",
-    "filepath": "img\\jumpscare.png"
+    "filepath": "img\\jumpscare.png",
+    "type": "ssd"
   },
   {
     "filename": "linkedin.png",
-    "filepath": "img\\linkedin.png"
-  },
-  {
-    "filename": "perro.jpg",
-    "filepath": "img\\perro.jpg"
+    "filepath": "img\\linkedin.png",
+    "type": "logo"
   },
   {
     "filename": "wakeup.png",
-    "filepath": "img\\wakeup.png"
+    "filepath": "img\\wakeup.png",
+    "type": "ssd"
   }
 ]

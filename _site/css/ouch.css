@@ -2,23 +2,18 @@
 
 /*im so close to giving up I swear I can feel myself getting angrier with each character I type*/
 nav{
-    padding: 0vh 5vw 0vh 5vw;
     margin: 75px auto 50px auto;
-    position: bottom;
     display:flex;
     flex-direction: row;
     width: fit-content;
-    top: 0;*
+    top: 0;
 }
 
 header {
-    padding: 0vh 5vw 0vh 5vw;
-    position: top;
     z-index: 1;
-    display:flex;
     margin: 0 auto;
     max-width: 1000px;
-    background-image: url("img//DSCN1903.jpg");
+    background-image: url("img/DSCN1903.jpg");
 }
 /*wanna figure out a way to make this image crop to fit but you're still able to see the whole image if you scroll.
 not sure how else to describe it*/
@@ -29,6 +24,26 @@ not sure how else to describe it*/
     --Color: #8afbe5;
 }
 
+.logos {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    max-height: 50vh;
+}
+
+.logos img {
+    max-height: 20vh;
+}
+
+header > * {
+    display: block;
+}
+
+header img {
+    max-height: 80vh;
+}
 
 /** Basic styling */
 html{width: 100%;
